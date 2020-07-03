@@ -1,6 +1,6 @@
-# music_app
+# music_app Concept Layout
 
-A new Flutter project.
+This is the layout concept of music app developed from flutter framework
 
 ## Getting Started
 
